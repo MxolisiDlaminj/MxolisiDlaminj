@@ -25,7 +25,8 @@ I enjoy working with data to uncover insights, identify trends, and support bett
   Analysed survey data from data professionals to uncover trends in salaries, skills, and job satisfaction. Built an interactive dashboard to present insights effectively.
   
 - 📌 **Library Management System using SQL**
-  This project demonstrates the development and analysis of a Library Management System using SQL. It focuses on managing and analysing structured data related to books, members, employees, and transactions.
+  
+This project demonstrates the development and analysis of a Library Management System using SQL. It focuses on managing and analysing structured data related to books, members, employees, and transactions.
 
 *(More projects coming soon...)*
 
@@ -50,11 +51,6 @@ I am actively seeking an **internship or entry-level opportunity** in Data Analy
 ##  Contact Me
 📧 Email: **torontomxoe@gmail.com**  
 🔗 LinkedIn: https://www.linkedin.com/in/mxolisi-dlamini-3554a42b6  
-
----
-
-## 😄 Pronouns
-He/Him  
 
 ---
 
