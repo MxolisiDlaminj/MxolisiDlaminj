@@ -1,12 +1,13 @@
 #  Hi, I'm Mxolisi Dlamini
 
 🎓 BCom Management Information Systems Graduate  
-📊 Aspiring Data Analyst | Power BI | SQL | Excel  
+📊 Aspiring Data Analyst/Business Analyst | Power BI | SQL | Excel 
+Data Modelling | Data Cleaning | Data Visualization
 
 ---
 
 ## About Me
-I am a passionate and detail-oriented aspiring **Data Analyst** with a strong foundation in data analysis, data visualisation, and problem-solving.  
+I am a passionate and detail-oriented aspiring Data Analyst/Business Analyst with a strong foundation in data analysis, data visualisation, and problem-solving.  
 
 I enjoy working with data to uncover insights, identify trends, and support better decision-making. I am continuously improving my skills and looking for opportunities to apply them in real-world environments.
 
