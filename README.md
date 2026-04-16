@@ -29,6 +29,10 @@ I enjoy working with data to uncover insights, identify trends, and support bett
   
 This project demonstrates the development and analysis of a Library Management System using SQL. It focuses on managing and analysing structured data related to books, members, employees, and transactions.
 
+- 📌  **Cybersecurity Threat Analysis (SQL Project)**
+
+SQL-based cybersecurity analysis project focused on detecting suspicious activity, analysing user behaviour, and identifying potential security risks using real-world datasets.
+
 *(More projects coming soon...)*
 
 ---
