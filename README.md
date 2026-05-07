@@ -2,7 +2,7 @@
 
 🎓 BCom Management Information Systems Graduate  
 📊 Aspiring Data Analyst/Business Analyst | Power BI | SQL | Excel 
-Data Modelling | Data Cleaning | Data Visualization
+Data Modelling | Data Cleaning | Data Visualization | UML Diagrams
 
 ---
 
