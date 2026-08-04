@@ -33,6 +33,17 @@ This project demonstrates the development and analysis of a Library Management S
 
 SQL-based cybersecurity analysis project focused on detecting suspicious activity, analysing user behaviour, and identifying potential security risks using real-world datasets.
 
+- 📌  **HR Data Analytics (Power BI Project)**
+
+Developed an interactive HR Analytics dashboard in **Power BI** to analyze employee demographics, attrition, job satisfaction, and workforce performance. The project involved data cleaning, data modeling, creating DAX measures, and designing interactive visualizations that provide actionable insights to support data-driven HR decision-making.
+
+
+- 📌  **Swiggy Data Analysis (SQL Server Project)**
+This project demonstrates my hands-on experience using **Microsoft SQL Server Management Studio (SSMS)** to analyze a real-world food delivery dataset. I cleaned and validated the data, designed a star schema with fact and dimension tables, created relationships using primary and foreign keys, and wrote SQL queries to generate business insights such as revenue trends, top-performing restaurants, customer ratings, and sales by location. Through this project, I strengthened my skills in SQL, data cleaning, database design, data modelling, and analytical problem-solving.
+
+
+
+
 *(More projects coming soon...)*
 
 ---
