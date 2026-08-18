@@ -25,7 +25,7 @@ I enjoy working with data to uncover insights, identify trends, and support bett
 - 📌 **Data Professionals Career Insights Dashboard (Power BI)**  
   Analysed survey data from data professionals to uncover trends in salaries, skills, and job satisfaction. Built an interactive dashboard to present insights effectively.
 
-  ### Project Summary
+- 📌 **Sales and Profit Analysis | Excel**
 
 Developed an interactive Sales & Profit Dashboard in Microsoft Excel to analyse sales performance, profitability, customer trends, product categories, and regional performance. Used Pivot Tables, charts, filters, and data visualisation to transform raw sales data into actionable business insights.
 
